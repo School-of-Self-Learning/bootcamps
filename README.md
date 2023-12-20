@@ -48,9 +48,9 @@ Stay tuned for registration details!
 ## 📅 What’s Coming Up?
 
 Get ready for:
-- **Frontend Engineering**
-- **React**
-- **AI for Everyone**
+- Resume Building
+- LinkedIn Profile Building
+- HTML Level 1
 
 🔔 Hungry for updates? [Subscribe](https://medium.com/the-research-nest) to our Medium alerts, and let’s get social on [LinkedIn](https://www.linkedin.com/company/the-research-nest/), [Instagram](https://www.instagram.com/research_nest/), and [Twitter](https://twitter.com/research_nest).
 
