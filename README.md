@@ -2,7 +2,7 @@
 
 Welcome aboard! 🎉 If the usual online courses feel like déjà vu, then it's time for a change. Here, we're all about hands-on projects, community, and refining real-world skills. Dive into our Bootcamps: an innovative spin on learning.
 
-## 📚 What Are TRN Bootcamps?
+## 📚 What Are Bootcamps?
 
 Think of Bootcamps as your ultimate playground to explore trending topics like AI, software development, and so much more. 
 
