@@ -26,7 +26,7 @@ Currently, we're pouring our hearts into Levels 1 & 2. Stay tuned for what's bre
 
 ## 🌐 Platform & Access
 
-All our Level 1 Bootcamps are up for grabs on Medium. And while some high-level content might be behind the Medium curtain, our projects, and code gems will always be open for all on GitHub.
+All our Level 1 Bootcamps are up for grabs on Medium. While some high-level content might be behind the Medium curtain, our projects, and code gems will always be open for all on GitHub.
 
 💰 Support us and get the best of Medium for just $5/month. It’s a win-win!
 
@@ -47,12 +47,9 @@ Stay tuned for registration details!
 
 ## 📅 What’s Coming Up?
 
-Get ready for:
-- Resume Building
-- LinkedIn Profile Building
-- HTML Level 1
+We're in the design phase for an introductory FREE Profile Building Bootcamp. Ready for a transformative journey? Stay in the loop for launch updates: subscribe to our Medium Newsletter to get all the latest updates in your inbox.
 
-🔔 Hungry for updates? [Subscribe](https://medium.com/the-research-nest) to our Medium alerts, and let’s get social on [LinkedIn](https://www.linkedin.com/company/the-research-nest/), [Instagram](https://www.instagram.com/research_nest/), and [Twitter](https://twitter.com/research_nest).
+🔔 Hungry for updates? [Subscribe](https://medium.com/the-research-nest) to our Medium alerts, and let’s get social on [LinkedIn](https://www.linkedin.com/company/the-research-nest/), and [Instagram](https://www.instagram.com/research_nest/).
 
 ## 🏆 Your Bootcamp Loot
 
