@@ -32,7 +32,7 @@ All our Level 1 Bootcamps are up for grabs on Medium. While some high-level cont
 
 ## 🛎 How to Engage
 
-1. 🎯 Pick your domain and level. Check out our [catalog](https://medium.com/the-research-nest/bootcamps/home).
+1. 🎯 Pick your domain and level. Check out our [catalog](https://medium.com/school-of-self-learning/bootcamps/home).
 2. 📖 Start with module one and go with the flow.
 3. 💡 Complete tasks, and make sure to strut your stuff before moving on.
 4. ✍️ Chronicle your journey in a blog. It’s your badge of honor!
@@ -49,7 +49,7 @@ Stay tuned for registration details!
 
 We're in the design phase for an introductory FREE Profile Building Bootcamp. Ready for a transformative journey? Stay in the loop for launch updates: subscribe to our Medium Newsletter to get all the latest updates in your inbox.
 
-🔔 Hungry for updates? [Subscribe](https://medium.com/the-research-nest) to our Medium alerts, and let’s get social on [LinkedIn](https://www.linkedin.com/company/the-research-nest/), and [Instagram](https://www.instagram.com/research_nest/).
+🔔 Hungry for updates? [Subscribe](https://medium.com/school-of-self-learning/newsletter) to our Medium newsletter, and let’s get social on [LinkedIn](https://www.linkedin.com/school/school-of-self-learning/), and [Instagram](https://www.instagram.com/school_of_self_learning).
 
 ## 🏆 Your Bootcamp Loot
 
